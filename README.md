@@ -31,4 +31,8 @@ Key Takeaways: Through this task, I gained hands-on experience with using window
 Conclusion: In conclusion, this task allowed me to apply advanced SQL concepts to a real-world scenario, demonstrating my ability to calculate the customer retention rate over time using window functions, subqueries, and CTEs. I gained valuable experience in breaking down complex problems into smaller pieces, applying filters and aggregations, and using CTEs to simplify queries.
 
 #Output of the Task
+![Image](https://github.com/user-attachments/assets/d4cf5f33-bb1c-4d17-a881-e34405f40b72)
 
+![Image](https://github.com/user-attachments/assets/73e854b2-b61a-4cb3-9ca9-dc36cbabd992)
+
+![Image](https://github.com/user-attachments/assets/c3ee4fcf-b5a4-4a78-abb8-0b4472952293)
