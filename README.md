@@ -1,4 +1,3 @@
-#Data Analysis with Complex Queries
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: Yamini Polumolu
