@@ -29,3 +29,6 @@ CTEs: CTEs are temporary result sets that you can reference within a query. I us
 Key Takeaways: Through this task, I gained hands-on experience with using window functions, subqueries, and CTEs to solve complex data analysis problems. I learned how to: Apply window functions to perform calculations across a set of rows related to the current row.Use subqueries in the form of CTEs to break down complex problems into smaller, more manageable pieces.Create CTEs to simplify queries and make them more readable.Apply filters and aggregations to refine the results and extract meaningful insights.
 
 Conclusion: In conclusion, this task allowed me to apply advanced SQL concepts to a real-world scenario, demonstrating my ability to calculate the customer retention rate over time using window functions, subqueries, and CTEs. I gained valuable experience in breaking down complex problems into smaller pieces, applying filters and aggregations, and using CTEs to simplify queries.
+
+#Output of the Task
+
